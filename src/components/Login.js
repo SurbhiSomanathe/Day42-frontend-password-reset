@@ -15,7 +15,7 @@ const Login = () => {
 
     var config = {
       method: "post",
-      url: "https://backenditeam.herokuapp.com//api/user/login",
+      url: "https://passwordresetbackend.herokuapp.com/api/user/login",
       headers: {
         "Content-Type": "application/json",
       },
