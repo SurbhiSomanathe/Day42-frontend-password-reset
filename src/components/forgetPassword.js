@@ -17,7 +17,7 @@ const ForgetPassword = () => {
 
     var config = {
       method: "post",
-      url: "https://passwordresetapinew.herokuapp.com/api/user/newpassword",
+      url: "https://backenditeam.herokuapp.com/api/user/newpassword",
       headers: {
         "Content-Type": "application/json",
       },

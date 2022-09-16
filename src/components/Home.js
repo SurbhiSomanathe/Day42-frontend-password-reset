@@ -7,9 +7,9 @@ const Home = () => {
     <div className="home">
       <Alert variant="danger">
         {<NaviBar />}
-        <Alert.Heading>Login to your account</Alert.Heading>
+        <h4>Login to your account</h4>
 
-        <p>I Don't have an account, sign up now</p>
+        <p> I Don't have an account, sign up now </p>
 
         <p className="mb-0"></p>
         <hr />
