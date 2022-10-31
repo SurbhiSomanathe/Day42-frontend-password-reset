@@ -17,7 +17,7 @@ const SignUp = () => {
 
     var config = {
       method: "post",
-      url: "https://passwordresetbackend.herokuapp.com/api/user",
+      url: "https://urlshortner-backendapp.herokuapp.com/api/user",
       headers: {
         "Content-Type": "application/json",
       },
